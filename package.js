@@ -1,6 +1,6 @@
 Package.describe({
   name: 'gaetanrouzies:bootstrap-4-modal',
-  version: '0.0.3',
+  version: '0.0.5',
   // Brief, one-line summary of the package.
   summary: 'Simply open and hide bootstrap 4 modals in Meteor.',
   // URL to the Git repository containing the source code for this package.
