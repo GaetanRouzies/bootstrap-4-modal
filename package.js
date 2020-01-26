@@ -4,7 +4,7 @@ Package.describe({
   // Brief, one-line summary of the package.
   summary: 'Simply open and hide bootstrap 4 modals in Meteor.',
   // URL to the Git repository containing the source code for this package.
-  git: '',
+  git: 'https://github.com/GaetanRouzies/bootstrap-4-modal',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
